@@ -3,9 +3,11 @@ My name is Estera. Self-taught Data Analyst. A YouTube video sparked my passion 
 
 SELECT *
 FROM people
+
 WHERE name IN (
-    SELECT name FROM people WHERE name = 'Estera' OR country = 'UK'
+    SELECT name FROM people WHERE name = 'Estera' , country = 'UK'
 )
+
 AND interest IN (
     SELECT interest FROM people WHERE interest = 'Data Analysis' OR travel_destination = 'Asia'
 );
