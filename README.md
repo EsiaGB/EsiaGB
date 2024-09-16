@@ -5,9 +5,9 @@ SELECT *
 
 FROM people
 
-WHERE name IN (SELECT name FROM people WHERE name = 'Estera' OR country = 'UK')
+WHERE name IN (SELECT name FROM people WHERE name = 'Estera' AND country = 'UK')
 
-AND interest IN (SELECT interest FROM people WHERE interest = 'Data Analysis' OR travel_destination = 'Asia');
+AND interest IN (SELECT interest FROM people WHERE interest = 'Data Analysis' AND travel_destination = 'Asia');
 
 ## **Skills**
 BI tools: PowerBi, Tableau\
