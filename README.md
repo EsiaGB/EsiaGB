@@ -15,4 +15,4 @@ Language : SQL\
 Software : MS Excel, Google Sheets
 
 ## **My Project**🗃️
-Please have a look at my [projects]([https://github.com/EsiaGB?tab=repositorie](https://github.com/EsiaGB/Projects).
+Please have a look at my [projects](https://github.com/EsiaGB/Projects).
