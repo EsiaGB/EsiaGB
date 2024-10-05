@@ -13,7 +13,7 @@ Software : MS Excel, Google Sheets
 | Project Name  | Where to see it | Tools Used |
 | ------------- | ------------- | ------------- |
 | World's Layoffs  | [World's Layoffs](https://github.com/EsiaGB/worlds_layoffs)  | SQL, Tableau
-| Housing  | [Housing](https://github.com/EsiaGB/Housing | SQL
+| Housing  | [Housing](https://github.com/EsiaGB/Housing) | SQL
 
 ⌨️ PowerBi/Tableau
 | Project Name | Where to see it | Tools Used |
