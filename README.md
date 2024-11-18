@@ -22,8 +22,4 @@ Software : MS Excel, Google Sheets
 | Adventure Works Report | [Adventure Works](https://github.com/EsiaGB/AdventureWorks) | PowerBi
 | Suicide Rates Overview 1985 to 2015| [Suicide Rates](https://public.tableau.com/app/profile/estera.lasek/viz/Suicide_17116475929130/Dashboard1) | Tableau
 
-⌨️ MS Excel 
-| Project Name | Where to see it | Tools Used |
-| ------------- | ------------- | ------------- |
-| Titanic | | MS Excel
 
