@@ -7,7 +7,13 @@ BI tools: PowerBi, Tableau\
 Language : SQL\
 Software : MS Excel, Google Sheets
 
-## **My Project**🗃️
+## **My Projects**🗃️
+
+⌨️ Excel
+| Project Name  | Where to see it | Tools Used |
+| ------------- | ------------- | ------------- |
+| Coffee orders  | [World's Layoffs](https://github.com/EsiaGB/worlds_layoffs)  | Excel
+| Finance tracker  | [Housing](https://github.com/EsiaGB/Housing) | Excel
 
 ⌨️ SQL
 | Project Name  | Where to see it | Tools Used |
@@ -21,5 +27,9 @@ Software : MS Excel, Google Sheets
 | USA commercial flights | [US commercial flights](https://github.com/EsiaGB/Airlines) | PowerBi
 | Adventure Works Report | [Adventure Works](https://github.com/EsiaGB/AdventureWorks) | PowerBi
 | Suicide Rates Overview 1985 to 2015| [Suicide Rates](https://public.tableau.com/app/profile/estera.lasek/viz/Suicide_17116475929130/Dashboard1) | Tableau
+
+
+
+
 
 
