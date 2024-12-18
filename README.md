@@ -13,7 +13,7 @@ Software : MS Excel, Google Sheets
 | Project Name  | Where to see it | Tools Used |
 | ------------- | ------------- | ------------- |
 | Coffee orders  | [Coffee orders](https://github.com/EsiaGB/Coffee_orders) | Excel
-| Finance tracker  | [Housing](https://github.com/EsiaGB/Housing) | Excel
+| Finance tracker  |  | Excel
 
 ⌨️ SQL
 | Project Name  | Where to see it | Tools Used |
