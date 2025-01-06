@@ -27,6 +27,7 @@ Software : MS Excel, Google Sheets
 | USA commercial flights | [US commercial flights](https://github.com/EsiaGB/Airlines) | PowerBi
 | Adventure Works Report | [Adventure Works](https://github.com/EsiaGB/AdventureWorks) | PowerBi
 | Suicide Rates Overview 1985 to 2015| [Suicide Rates](https://public.tableau.com/app/profile/estera.lasek/viz/Suicide_17116475929130/Dashboard1) | Tableau
+| Covid| [Suicide Rates](https://public.tableau.com/app/profile/estera.lasek/viz/Covid_data_17361667946860/Covid_data_Dashboard#1) | Tableau
 
 
 
