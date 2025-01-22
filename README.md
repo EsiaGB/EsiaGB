@@ -1,5 +1,5 @@
 ## Hi there 🙋‍♀️
-My name is Esther Self-taught Data Analyst. A YouTube video sparked my passion for data analytics. I leveraged my free time to complete the Google Data Analytics Professional Certification, PowerBI training, and online tutorials. Feel free to find me on ➡️[LinkedIn](https://www.linkedin.com/in/estera-lasek/)
+My name is Esther highly motivated data analyst/technical officer. A YouTube video sparked my passion for data analytics. I leveraged my free time to complete the Google Data Analytics Professional Certification, PowerBI training, and online tutorials. Feel free to find me on ➡️[LinkedIn](https://www.linkedin.com/in/estera-lasek/)
 
 
 ## **Skills**
