@@ -14,7 +14,7 @@ Software : MS Excel, Google Sheets
 | ------------- | ------------- | ------------- |
 | Coffee orders  | [Coffee orders](https://github.com/EsiaGB/Coffee_orders) | Excel
 | Finance tracker  | [Finance tracker](https://github.com/EsiaGB/Finance_tracker) | Excel
-| Sales analysis  | [Sales analysis]([https://github.com/EsiaGB/Coffee_orders](https://github.com/EsiaGB/Sales_analysis) | Excel
+| Sales analysis  | [Sales analysis](https://github.com/EsiaGB/Sales_analysis) | Excel
 
 ⌨️ SQL
 | Project Name  | Where to see it | Tools Used |
